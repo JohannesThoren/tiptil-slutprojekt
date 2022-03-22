@@ -1,10 +1,14 @@
+- [TipTil-slutprojekt](#tiptil-slutprojekt)
+  - [köra programmen](#köra-programmen)
+  - [Licens](#licens)
+
 # TipTil-slutprojekt
-Detta arbetet kommer att fokusera på fraktaler, så som mandelbrot. Innehållet kommer att bestå av olika interaktiva program som visar dessa fraktaler eller resultat som program har generetat i from av bilder eller grafer.
+Detta arbetet kommer att fokusera på fraktaler, så som mandelbrot. Innehållet kommer att bestå av olika interaktiva program som visar dessa fraktaler eller resultat som program har genererat i from av bilder eller grafer.
 
 ## köra programmen
 För att köra programmen så måste man först kolna antigen detta eller respektive repository.
 
-**OBS! Programmen är skrivna i olika språk så kolla instruktionerna för respektive programm för att kunna bygga eller köra dem.**
+**OBS! Programmen är skrivna i olika språk så kolla instruktionerna för respektive program för att kunna bygga eller köra dem.**
 
 ## Licens
 ```
