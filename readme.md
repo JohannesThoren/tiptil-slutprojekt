@@ -6,7 +6,7 @@ För att köra programmen så måste man först kolna antigen detta eller respek
 
 **OBS! Programmen är skrivna i olika språk så kolla instruktionerna för respektive programm för att kunna bygga eller köra dem.**
 
-### Licens
+## Licens
 ```
 Copyright (c) 2022 Johannes Thorén
 
