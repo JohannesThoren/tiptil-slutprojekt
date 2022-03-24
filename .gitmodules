@@ -1,3 +1,7 @@
 [submodule "mandelbrot"]
 	path = mandelbrot
 	url = https://github.com/JohannesThoren/mandelbrot-rust
+
+[submodule "tree"]
+	path = tree
+	url = https://github.com/JohannesThoren/tree
