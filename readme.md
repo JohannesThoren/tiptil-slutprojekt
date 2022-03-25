@@ -8,7 +8,6 @@ Detta arbetet kommer att fokusera på fraktaler, så som mandelbrot. Innehållet
 ## köra programmen
 För att köra programmen så måste man först kolna antigen detta eller respektive repository.
 
-**OBS! Programmen är skrivna i olika språk så kolla instruktionerna för respektive program för att kunna bygga eller köra dem.**
 
 ## Licens
 ```
